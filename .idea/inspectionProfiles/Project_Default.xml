@@ -1,0 +1,26 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="13">
+            <item index="0" class="java.lang.String" itemvalue="yacs" />
+            <item index="1" class="java.lang.String" itemvalue="triton" />
+            <item index="2" class="java.lang.String" itemvalue="timm" />
+            <item index="3" class="java.lang.String" itemvalue="pytest" />
+            <item index="4" class="java.lang.String" itemvalue="torch" />
+            <item index="5" class="java.lang.String" itemvalue="torchvision" />
+            <item index="6" class="java.lang.String" itemvalue="submitit" />
+            <item index="7" class="java.lang.String" itemvalue="chardet" />
+            <item index="8" class="java.lang.String" itemvalue="termcolor" />
+            <item index="9" class="java.lang.String" itemvalue="seaborn" />
+            <item index="10" class="java.lang.String" itemvalue="fvcore" />
+            <item index="11" class="java.lang.String" itemvalue="tensorboardX" />
+            <item index="12" class="java.lang.String" itemvalue="torchaudio" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
