@@ -1,0 +1,4 @@
+torch
+packaging
+ninja
+einops
