@@ -14,8 +14,8 @@
   
 ## Introduction
 <p align="center">
-<!-- ![results](images/Introduction.png) -->
-<img src="images/Introduction.png" width="800">
+<!-- ![results](images/Introduction-modified.png) -->
+<img src="images/Introduction-modified.png" width="800">
 </p>
 <p align="justify" style="width:740px;">
 We introduce GroupMamba, inspired by GroupConvolution, designed to enhance computational efficiency and interaction within state-space models. By employing a multi-directional scanning method, GroupMamba ensures comprehensive spatial coverage and effective modeling of both local and global information. We present a series of parameter-efficient generic classification models under the GroupMamba name, based on our proposed Modulated Group Mamba layer.
@@ -48,14 +48,14 @@ The four scanning directions used for the four VSSS blocks are illustrated.
 
 
 ## Comparison on ImageNet-1k
-![results](images/classification.png)
+![results](images/classification-modified.png)
 
 
 ## Comparison on Object Detection and Instance Segmentation
-![results](images/detection.png)
+![results](images/detection-modified.png)
 
 ## Comparison on Semantic Segmentation
-![results](images/segmentation.png)
+![results](images/segmentation-modified.png)
 
 ## Qualitative Results (Object Detection and Instance Segmentation)
 ![results](images/suppl_detection.png)
