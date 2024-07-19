@@ -5,12 +5,12 @@
 
 <br>
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  [Paper](): [<img height="25" src="/GroupMamba/paper.png" width="25" />](PAPER)  , [Code:](https://github.com/Amshaker/GroupMamba) [<img height="25" src="/GroupMamba/Github.png" width="25" />](https://github.com/Amshaker/GroupMamba)
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  [Paper](https://arxiv.org/pdf/2407.13772): [<img height="25" src="/GroupMamba/paper.png" width="25" />](https://arxiv.org/pdf/2407.13772)  , [Code:](https://github.com/Amshaker/GroupMamba) [<img height="25" src="/GroupMamba/Github.png" width="25" />](https://github.com/Amshaker/GroupMamba)
 
 <br>
 
 ## News
-* **(Jul 19, 2024):** GroupMamba training and evaluation codes are released.
+* **(Jul 18, 2024):** GroupMamba training and evaluation codes are released.
   
 ## Introduction
 <p align="center">
@@ -66,11 +66,12 @@ The four scanning directions used for the four VSSS blocks are illustrated.
 ## Citation
 If you use our work, please consider citing:
 ```
-@inproceedings{shaker2024GroupMamba,
+@article{shaker2024GroupMamba,
   title={GroupMamba: Parameter-Efficient and Accurate Group Visual State Space Model},
   author={Abdelrahman Shaker and Syed Talal Wasim and Salman Khan and Gall Jürgen and Fahad Shahbaz Khan},
-  journal={arXiv preprint arXiv:x.x},
-  year={2024}
+  journal={arXiv preprint arXiv:2407.13772},
+  year={2024},
+  url={https://arxiv.org/pdf/2407.13772}
 }
 ```
 
