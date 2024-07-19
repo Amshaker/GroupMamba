@@ -9,8 +9,8 @@
 
 <sup>1</sup>  Mohamed Bin Zayed University or Artificial Intelligence, <sup>2</sup>  University of Bonn,  <sup>3</sup> Linköping University.
 
-[![Website](https://img.shields.io/badge/Project-Website-87CEEB)]()
-[![paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)]()
+[![Project](https://img.shields.io/badge/Project-Website-87CEEB)](https://amshaker.github.io/GroupMamba/)
+[![Paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/pdf/2407.13772)
 
 
 </div>
@@ -127,7 +127,8 @@ If you use our work, please consider citing:
 @inproceedings{shaker2024GroupMamba,
   title={GroupMamba: Parameter-Efficient and Accurate Group Visual State Space Model},
   author={Abdelrahman Shaker and Syed Talal Wasim and Salman Khan and Gall Jürgen and Fahad Shahbaz Khan},
-  journal={arXiv preprint arXiv:x.x},
-  year={2024}
+  journal={arXiv preprint arXiv:2407.13772},
+  year={2024},
+  url={https://arxiv.org/pdf/2407.13772}
 }
 ```
