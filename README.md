@@ -124,7 +124,7 @@ We thank them for releasing their code.
 ## Citation
 If you use our work, please consider citing:
 ```
-@inproceedings{shaker2024GroupMamba,
+@article{shaker2024GroupMamba,
   title={GroupMamba: Parameter-Efficient and Accurate Group Visual State Space Model},
   author={Abdelrahman Shaker and Syed Talal Wasim and Salman Khan and Gall Jürgen and Fahad Shahbaz Khan},
   journal={arXiv preprint arXiv:2407.13772},
