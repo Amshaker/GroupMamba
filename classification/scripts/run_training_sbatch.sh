@@ -20,7 +20,7 @@ python -m torch.distributed.launch \
     --nproc_per_node=$NPROC_PER_NODE \
     --master_addr=$MASTER_ADDR \
     --master_port=$MASTER_PORT \
-    main.py \
+    train.py \
     --groupmamba-model $MODEL \
     --batch-size $BATCH_SIZE \
     --data-path $DATA_PATH \
