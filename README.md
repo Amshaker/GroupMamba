@@ -7,7 +7,7 @@
 
 [Abdelrahman Shaker](https://amshaker.github.io/)<sup>1</sup>, [Syed Talal Wasim](https://talalwasim.github.io/)<sup>2,3</sup>, [Salman Khan](https://salman-h-khan.github.io/)<sup>1</sup>, [Jürgen Gall](https://pages.iai.uni-bonn.de/gall_juergen/)<sup>2,3</sup>, and [Fahad Khan](https://sites.google.com/view/fahadkhans/home)<sup>1,4</sup>
 
-<sup>1</sup>  Mohamed Bin Zayed University or Artificial Intelligence, <sup>2</sup>  University of Bonn,  <sup>2</sup>  Lamarr Institute of ML and AI, <sup>4</sup> Linköping University.
+<sup>1</sup>  Mohamed Bin Zayed University or Artificial Intelligence, <sup>2</sup>  University of Bonn,  <sup>2</sup>  Lamarr Institute of Machine Learning and Artificial Intelligence, <sup>4</sup> Linköping University.
 
 [![Project](https://img.shields.io/badge/Project-Website-87CEEB)](https://amshaker.github.io/GroupMamba/)
 [![Paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/pdf/2407.13772)
